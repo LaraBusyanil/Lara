@@ -4,7 +4,6 @@ Perkenalkan nama saya **Lara Busyanil**.
 
 Saya seorang **Mahasiswa Jurusan Sistem Informasi** di [Universitas Andalas](https://www.unand.ac.id/).
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/triayuniapatmalubis/)ku ya.
 
 <p align="left">
 <a href="https://github.com/LaraBusyanil">
