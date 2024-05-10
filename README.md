@@ -1,9 +1,5 @@
 # ### Hi there 👋
 
-Perkenalkan nama saya **Lara Busyanil**.
-
-Saya seorang **Mahasiswa Jurusan Sistem Informasi** di [Universitas Andalas](https://www.unand.ac.id/).
-
 
 <p align="left">
 <a href="https://github.com/LaraBusyanil/Lara">
@@ -11,9 +7,7 @@ Saya seorang **Mahasiswa Jurusan Sistem Informasi** di [Universitas Andalas](htt
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ttrrayl&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-<!--
-**ttrrayl/ttrrayl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
